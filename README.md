@@ -1,6 +1,6 @@
 # Number Guessing Game CLI
 
-GitHub Repository: https://github.com/Rammstone/ng_game_cli
+GitHub Repository: https://github.com/Rammstone/Cli_No_Guessing_Game
 
 A simple command-line Number Guessing Game built with Node.js.
 
