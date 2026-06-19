@@ -1,5 +1,7 @@
 # Number Guessing Game CLI
 
+GitHub Repository: https://github.com/Rammstone/ng_game_cli
+
 A simple command-line Number Guessing Game built with Node.js.
 
 The game generates a random number between 1 and 100, and the player must guess it within a limited number of attempts based on the selected difficulty level.
