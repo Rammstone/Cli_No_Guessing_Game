@@ -23,7 +23,7 @@ The game generates a random number between 1 and 100, and the player must guess 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rammstone/Cli_No_Guessing_Game.git
 cd ng_game_cli
 ```
 
